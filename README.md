@@ -87,6 +87,7 @@ Me chamo Arlan, tenho 25 anos. Formado em Analise e Desenvolvimento de Sistemas 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br/>
 
 ### 📊 Estatísticas
 
