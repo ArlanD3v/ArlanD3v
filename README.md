@@ -12,14 +12,14 @@ Me chamo Arlan, tenho 25 anos. Formado em Analise e Desenvolvimento de Sistemas 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=arland3v&show_icons=true&theme=radical)" 
+    src="https://github-readme-stats.vercel.app/api?username=arland3v&show_icons=true&theme=ocean_dark)" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arland3v&theme=ocean_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
