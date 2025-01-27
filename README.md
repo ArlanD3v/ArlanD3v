@@ -1,28 +1,9 @@
 # 👩🏻‍💻 Arlan Silva
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack Jr`**
 
 Me chamo Arlan, tenho 25 anos. Formado em Analise e Desenvolvimento de Sistemas pela Estacio. Sou apaixonada por tecnologia e atuo como Analista de Suporte N2, onde consigo unir a minha paixão em tecnologia e a paixão em solucionar problemas em resolver problemas atraves da IoT
 ---
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=arland3v&show_icons=true&theme=ocean_dark)" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arland3v&theme=ocean_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -106,6 +87,25 @@ Me chamo Arlan, tenho 25 anos. Formado em Analise e Desenvolvimento de Sistemas 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+     src="https://github-readme-stats.vercel.app/api?username=arland3v&show_icons=true&theme=maroongold&include_all_commits=true&locale=pt-br"
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arland3v&theme=maroongold&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 <br/>
 <br/>
