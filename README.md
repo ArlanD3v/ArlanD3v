@@ -98,7 +98,8 @@ Me chamo Arlan, tenho 25 anos. Formado em Analise e Desenvolvimento de Sistemas 
     height="200" 
     style="padding-right: 10px;" 
      src="https://github-readme-stats.vercel.app/api?username=arland3v&show_icons=true&theme=maroongold&include_all_commits=true&locale=pt-br"
-
+/>
+<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
