@@ -2,8 +2,9 @@
 
 **`Desenvolvedor FullStack Jr`**
 
-Me chamo Arlan, tenho 25 anos. Formado em Analise e Desenvolvimento de Sistemas pela Estacio. Sou apaixonada por tecnologia e atuo como Analista de Suporte N2, onde consigo unir a minha paixão em tecnologia e a paixão em solucionar problemas em resolver problemas atraves da IoT
----
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=16&duration=3000&pause=1000&color=E4D51D&width=435&lines=Ol%C3%A1!++%F0%9F%91%8B;Me+chamo+Arlan!+%C3%89+um+prazer+ter+voc%C3%AA+aqui!"/>
+</h1>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -88,6 +89,7 @@ Me chamo Arlan, tenho 25 anos. Formado em Analise e Desenvolvimento de Sistemas 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br/>
+<br/>
 
 ### 📊 Estatísticas
 
@@ -98,7 +100,7 @@ Me chamo Arlan, tenho 25 anos. Formado em Analise e Desenvolvimento de Sistemas 
     height="200" 
     style="padding-right: 10px;" 
      src="https://github-readme-stats.vercel.app/api?username=arland3v&show_icons=true&theme=maroongold&include_all_commits=true&locale=pt-br"
-/>
+
 <br/>
 <img 
       align="left" 
